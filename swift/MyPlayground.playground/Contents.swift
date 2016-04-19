@@ -57,8 +57,26 @@ if(ipc.position.inRange(shan) == true){
     print("qqqqqqqqq")
 }
 
-var shin: Int
+
+var shin: Distance
 shin = 10
+if ipc.position.inRange(shin) {
+    print("truen")
+}else{
+    
+    print("false")
+}
+
+print("flanedif")
+
+
+
+
+
+
+
+
+
 
 
 
