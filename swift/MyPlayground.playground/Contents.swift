@@ -57,6 +57,8 @@ if(ipc.position.inRange(shan) == true){
     print("qqqqqqqqq")
 }
 
+var shin: Int
+shin = 10
 
 
 
